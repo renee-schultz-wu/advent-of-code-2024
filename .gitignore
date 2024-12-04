@@ -1,3 +1,3 @@
 input.txt
-.toml
-.lock
+*.toml
+*.lock
