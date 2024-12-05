@@ -1,5 +1,3 @@
-import re
-
 test = [
     "MMMSXXMASM",
     "MSAMXMSMSA",
